@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+
+<!-- Game settings -->
+
+<settings>
+  <game name="FROOOOOOGGGGSSSSS" />
+  <renderer width="1504" height="1024"/>
+   
+  <font file="Media\Fonts\monospace.spritefont"/>
+
+  <!-- sprites -->
+   
+  <sprites path="Media\Images">
+    <sprite name= "background_cave" file= "background_cave.png"/>
+    <sprite name= "background_forest" file= "background_forest.png"/>
+	<sprite name= "main_menu" file= "main_menu" ext ="png" frames="2"/>
+    <sprite name= "background_mesa" file= "background_mesa.png"/>
+    <sprite name= "background_mush" file= "background_mush.png"/>
+    <sprite name= "dirtshackbaby" file= "dirtshackbaby.png"/>
+    <sprite name="tile" file="tile" ext ="png" frames="3"/>
+    <sprite name="error" file="error.png"/>
+	<sprite name="player1" file="Small Frog.png"/>
+    <sprite name="player2" file="Big Frog.png"/>
+    <!-- map tile sheets -->
+    <sprite name="floor_switch" file="floor_switch" ext ="png" frames="2"/>
+    <sprite name="cave" file="cave" ext ="png" frames="23"/>
+    <sprite name="for" file="for" ext="png" frames="23"/>
+    <sprite name="mesa" file="mesa" ext="png" frames="23"/>
+    <sprite name="mush" file="mush" ext="png" frames="23"/>
+	
+	<sprite name="tongue" file="tongue.png"/>
+
+    <sprite name="lever" file="lever" ext ="png" frames="2"/>
+    <sprite name="button" file="button" ext="png" frames ="2"/>
+    <sprite name="heavy_switch" file="heavy_switch" ext="png" frames ="2"/>
+    <sprite name= "sign" file="sign" ext="png" frames="2"/>
+	<sprite name= "arrow" file="arrow" ext="png" frames="4"/>
+    <sprite name="bullet" file="bullet.png"/>
+    <sprite name="bullet2" file="bullet2.png"/>
+    <sprite name="smoke" file="graysmoke.png"/>
+    <sprite name="spark" file="spark.png"/>
+    <sprite name="flies" file="flies" ext="png" frames="6"/>
+    <sprite name="breakable" file="breakable" ext="png" frames="5"/>
+    <sprite name="tile" file="tile1.png"/>
+    <sprite name="greenline" file="greenline.png"/>
+    <sprite name="climbing_vine" file="climbing_vine.png"/>
+    <sprite name="bouncy" file="bouncy.png"/>
+    <sprite name="dialogue" file="text_box.png"/>
+    <sprite name="bubble" file="bubble.png"/>
+    <sprite name= "wine" file="wine" ext="png" frames="5"/>
+	
+
+	 <sprite name="rainbowsheet" file="rainbow.png"/>
+	<sprite name="rainbow" sheet="rainbowsheet" frames="9">
+	<frame index="0" left="0"   top="0" right="128"  bottom="128"/>>
+	<frame index="1" left="129"   top="0" right="256"  bottom="128"/>>
+	<frame index="2" left="257"   top="0" right="384"  bottom="128"/>>
+	<frame index="3" left="0"   top="129" right="128"  bottom="256"/>>
+	<frame index="4" left="129"   top="129" right="256"  bottom="256"/>>
+	<frame index="5" left="257"   top="129" right="384"  bottom="256"/>>
+	<frame index="6" left="0"   top="257" right="128"  bottom="384"/>>
+	<frame index="7" left="129"   top="257" right="256"  bottom="384"/>>
+	<frame index="8" left="257"   top="257" right="384"  bottom="384"/>>
+	</sprite>
+
+	 <sprite name="BFwalkrightsheet" file="BF Walking Right.png"/>
+	<sprite name="BFwalkright" sheet="BFwalkrightsheet" frames="27">
+	<frame index="0" left="320"   top="0" right="399"  bottom="100"/>>
+	<frame index="1" left="320"  top="100" right="399" bottom="200"/>>
+	<frame index="2" left="320" top="200" right="399" bottom="300"/>>
+	<frame index="3" left="320" top="300" right="399" bottom="400"/>>
+	<frame index="4" left="320" top="400" right="399" bottom="500"/>>
+	<frame index="5" left="320" top="500" right="399" bottom="600"/>>
+	<frame index="6" left="240" top="0" right="319" bottom="100"/>>
+	<frame index="7" left="240" top="100" right="319" bottom="200"/>>
+	<frame index="8" left="240" top="200" right="319" bottom="300"/>>
+	<frame index="9" left="240"   top="300" right="319"  bottom="400"/>>
+	<frame index="10" left="240"  top="400" right="319" bottom="500"/>>
+	<frame index="11" left="240" top="500" right="319" bottom="600"/>>
+	<frame index="12" left="160" top="0" right="239" bottom="100"/>>
+	<frame index="13" left="160" top="100" right="239" bottom="200"/>>
+	<frame index="14" left="160" top="200" right="239" bottom="300"/>>
+	<frame index="15" left="160" top="300" right="239" bottom="400"/>>
+	<frame index="16" left="160" top="400" right="239" bottom="500"/>>
+	<frame index="17" left="160" top="500" right="239" bottom="600"/>>
+	<frame index="18" left="80"   top="0" right="159"  bottom="100"/>>
+	<frame index="19" left="80"  top="100" right="159" bottom="200"/>>
+	<frame index="20" left="80" top="200" right="159" bottom="300"/>>
+	<frame index="21" left="80" top="300" right="159" bottom="400"/>>
+	<frame index="22" left="80" top="400" right="159" bottom="500"/>>
+	<frame index="23" left="80" top="500" right="159" bottom="600"/>>
+	<frame index="24" left="0" top="0" right="80" bottom="100"/>>
+	<frame index="25" left="0" top="100" right="80" bottom="200"/>>
+	<frame index="26" left="0" top="200" right="80" bottom="300"/>>
+	</sprite>
+	 
+	 <sprite name="BFwalkleftsheet" file="BF Walking Left.png"/>
+	<sprite name="BFwalkleft" sheet="BFwalkleftsheet" frames="27">
+	<frame index="0" left="320"   top="0" right="399"  bottom="100"/>>
+	<frame index="1" left="320"  top="100" right="399" bottom="200"/>>
+	<frame index="2" left="320" top="200" right="399" bottom="300"/>>
+	<frame index="3" left="320" top="300" right="399" bottom="400"/>>
+	<frame index="4" left="320" top="400" right="399" bottom="500"/>>
+	<frame index="5" left="320" top="500" right="399" bottom="600"/>>
+	<frame index="6" left="240" top="0" right="319" bottom="100"/>>
+	<frame index="7" left="240" top="100" right="319" bottom="200"/>>
+	<frame index="8" left="240" top="200" right="319" bottom="300"/>>
+	<frame index="9" left="240"   top="300" right="319"  bottom="400"/>>
+	<frame index="10" left="240"  top="400" right="319" bottom="500"/>>
+	<frame index="11" left="240" top="500" right="319" bottom="600"/>>
+	<frame index="12" left="160" top="0" right="239" bottom="100"/>>
+	<frame index="13" left="160" top="100" right="239" bottom="200"/>>
+	<frame index="14" left="160" top="200" right="239" bottom="300"/>>
+	<frame index="15" left="160" top="300" right="239" bottom="400"/>>
+	<frame index="16" left="160" top="400" right="239" bottom="500"/>>
+	<frame index="17" left="160" top="500" right="239" bottom="600"/>>
+	<frame index="18" left="80"   top="0" right="159"  bottom="100"/>>
+	<frame index="19" left="80"  top="100" right="159" bottom="200"/>>
+	<frame index="20" left="80" top="200" right="159" bottom="300"/>>
+	<frame index="21" left="80" top="300" right="159" bottom="400"/>>
+	<frame index="22" left="80" top="400" right="159" bottom="500"/>>
+	<frame index="23" left="80" top="500" right="159" bottom="600"/>>
+	<frame index="24" left="0" top="0" right="79" bottom="100"/>>
+	<frame index="25" left="0" top="100" right="79" bottom="200"/>>
+	<frame index="26" left="0" top="200" right="79" bottom="300"/>>
+	</sprite>
+	
+	 <sprite name="bfopenmouthsheet" file="BF Open Mouth.png"/>
+	<sprite name="bfopenmouth" sheet="bfopenmouthsheet" frames="3">
+	<frame index="0" left="80"   top="0" right="160"  bottom="80"/>>
+	<frame index="1" left="80"  top="80" right="160" bottom="160"/>>
+	<frame index="2" left="0" top="0" right="79" bottom="79"/>>
+	</sprite>
+	
+	<sprite name="SFwalkleftsheet" file="SF Walking Left.png"/>
+	<sprite name="SFwalkleft" sheet="SFwalkleftsheet" frames="14">
+	<frame index="0" left="150" top="0" right="225"  bottom="75"/>>
+	<frame index="1" left="150" top="75" right="225" bottom="150"/>>
+	<frame index="2" left="150" top="150" right="225" bottom="225"/>>
+	<frame index="3" left="150" top="225" right="225" bottom="300"/>>
+	<frame index="4" left="150" top="300" right="225" bottom="375"/>>
+	<frame index="5" left="150" top="375" right="225" bottom="450"/>>
+	<frame index="6" left="75"	top="0" right="150" bottom="75"/>>
+	<frame index="7" left="75"  top="75" right="150"  bottom="150"/>>
+	<frame index="8" left="75"  top="150" right="150" bottom="225"/>>
+	<frame index="9" left="75" 	top="225" right="150" bottom="300"/>>
+	<frame index="10" left="75" top="300" right="150" bottom="375"/>>
+	<frame index="11" left="75" top="375" right="150" bottom="450"/>>
+	<frame index="12" left="0" top="0" right="75" bottom="75"/>>
+	<frame index="13" left="0" top="75" right="75" bottom="150"/>>
+	</sprite>
+
+	
+	<sprite name="SFwalkrightsheet" file="SF Walking Right.png"/>
+	<sprite name="SFwalkright" sheet="SFwalkrightsheet" frames="14">
+	<frame index="0" left="150" top="0" right="225"  bottom="75"/>>
+	<frame index="1" left="150" top="75" right="225" bottom="150"/>>
+	<frame index="2" left="150" top="150" right="225" bottom="225"/>>
+	<frame index="3" left="150" top="225" right="225" bottom="300"/>>
+	<frame index="4" left="150" top="300" right="225" bottom="375"/>>
+	<frame index="5" left="150" top="375" right="225" bottom="450"/>>
+	<frame index="6" left="75"	top="0" right="150" bottom="75"/>>
+	<frame index="7" left="75"  top="75" right="150"  bottom="150"/>>
+	<frame index="8" left="75"  top="150" right="150" bottom="225"/>>
+	<frame index="9" left="75" 	top="225" right="150" bottom="300"/>>
+	<frame index="10" left="75" top="300" right="150" bottom="375"/>>
+	<frame index="11" left="75" top="375" right="150" bottom="450"/>>
+	<frame index="12" left="0" top="0" right="75" bottom="75"/>>
+	<frame index="13" left="0" top="75" right="75" bottom="150"/>>
+	</sprite>
+  </sprites>
+
+  <!-- sound -->
+  
+  <sounds  path="Media\Sounds"> 
+    <sound name="start" file="start.wav" instances="1"/>
+    <sound name="gun" file="44magnum.wav" instances="8"/>
+    <sound name="ricochet" file="ricochet.wav" instances="8"/>
+    <sound name="clang" file="clang.wav" instances="4"/>
+    <sound name="grunt" file="umph.wav" instances="2"/>
+    <sound name="boom" file="boom.wav" instances="4"/>
+    <sound name="small_frog" file="small_frog.wav" instances="1"/>
+    <sound name="big_frog" file="big_frog.wav" instances="1"/>
+    <sound name="tongue" file="tongue.wav" instances="1"/>
+    <sound name="switch_click" file="switch_click.wav" instances="4"/>
+
+	<!-- music-->
+	<sound name="cave_music_left" file="Music\cave_left.wav" instances="2"/>
+	<sound name="cave_music_right" file="Music\cave_right.wav" instances="2"/>
+	<sound name="forest_music_left" file="Music\forest_left.wav" instances="2"/>
+	<sound name="forest_music_right" file="Music\forest_right.wav" instances="2"/>
+  </sounds>
+</settings>

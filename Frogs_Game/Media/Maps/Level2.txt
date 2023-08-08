@@ -1,0 +1,63 @@
+50
+61
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FF       d                           e       d  FF
+FF                                              FF
+FF                                              FF
+FF                      A                       FF
+FF                FFFFFFFFFFFFF     S           FF
+FF       S             FFF  d                   FF
+FF                     FFFF                     FF
+FF                     FFF                      FF
+FF                     FFF                      FF
+FF                     FFF                      FF
+FF                   c FFF                      FF
+FF                FFFFFFFF                      FF
+FF                 d   FFFFFFF                  FF
+FF                     FFF  e                   FF
+FF       s             FFF            c         FF
+FF      FFFF           FFF          FFFF        FF
+FF        d            FFF b         d          FF
+FF                FFFFFFFFFFFF                  FF
+FF                   e FFF                      FF
+FF                     FFF               j      FF
+FF          l          FFF                      FF
+FF                     FFF                      FF
+FF                     FFF                      FF
+FF                     FFF                      FF
+FF                     FFF           j          FF
+FF               j     FFF                      FF
+FF  j                  FFF                 j    FF
+FF                     FFF                      FF
+FF                     FFF                      FF
+FF                     FFF                      FF
+FF          j          FFF         j            FF
+FF                     FFF                      FF
+FF                   l FFF                      FF
+FF                     FFF l                    FF
+FFFFFF                 FFF                      FF
+FF                     FFF                   FFFFF
+FF                  b  FFF       c              FF
+FF              FFFFFFFFFFFFFFFFFFF             FF
+FF  g             d    FFFF    i                FF
+FFFFF                  FFFr                   g FF
+FF e                   FFF                  FFFFFF
+FF                     FFF                      FF
+FF                     FFF                      FF
+FF        R            FFF            R         FF
+FF   c            FFFFFFFF c                    FF
+FFFFFFFC               FFFFFFF                  FF
+FF d   C               FFF  e        b          FF
+FF     C               FFF        CFFFF         FF
+FF     C               FFF        C   d         FF
+FF0  1              FFFFFFFFF     C             FF
+FF                     FFF                      FF
+FF           n  Q      FFF                  c   FF
+FFFFFFFFFFFFFF  FFFFFFFFFFFFFFFFFFF  CFFFFFFFFFFFF
+FFFFFFFFFFFFFF  FFFFFFFFFFFFFFFFFFF  CFFFFFFFFFFFF
+NNNNNNNNNNNNFF  FFFFFFFFFFFFFFFFFFF  CFFNNNNNNNNNN
+NNNNNNNNNNNNFF  FFFFFFFFFFFFFFFFFFF  CFFNNNNNNNNNN
+NNNNNNNNNNNNFF                        FFNNNNNNNNNN
+NNNNNNNNNNNNFF     b             q    FFNNNNNNNNNN
+NNNNNNNNNNNNFFFFFFFFFFFFFFFFFFFFFFFFFFFFNNNNNNNNNN
+NNNNNNNNNNNNFFFFFFFFFFFFFFFFFFFFFFFFFFFFNNNNNNNNNN

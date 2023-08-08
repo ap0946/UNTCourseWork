@@ -1,0 +1,15 @@
+1.5 0 1
+...
+1.5 0 1
+You smell that?
+1.5 1 1
+...
+1.0 1 2
+I sure do! Someone is
+making pies!
+1.5 1 2
+Lets go stea -- sorry,
+"buy" some pie.
+2.0 0 2
+I'm in! You better not eat
+it on the way back!

@@ -1,0 +1,51 @@
+48
+49
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFF   FFF  d       e               FF
+FFFFFFFFF  i     FFF                          FF
+FF    e          FFF                          FF
+FF               FFF                          FF
+FF               FFF                      A   FF
+FF               FFF            FFFFFFFFFFFFFFFF
+FF               FFF            FFFFFFFFFFFFFFFF
+FF              aFFF            FFNNNNNNNNNNNNNN
+FF              FFFF            FFNNNNNNNNNNNNNN
+FF                              FFNNNNNNNNNNNNNN
+FF                              FFNNNNNNNNNNNNNN
+FF                B             FFNNNNNNNNNNNNNN
+FF           c              f   FFNNNNNNNNNNNNNN
+FF          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FF          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FF      FFFFFF   d                  e   d     FF
+FF      FFFFFF                                FF
+FFFF                                          FF
+FFFF                                          FF
+NNFFFF                                        FF
+NNFFFF    g            r      b               FF
+NNNNFFFFFFFF        R  FFFFFFFFFF             FF
+NNNNFFFFFFFF            FFFFFFFFFF            FF
+NNNNNNNNNNFF                e   FFFF          FF
+NNNNNNNNNNFF                    FFFFFF        FF
+NNNNNNNNNNFF                     i          FFFF
+NNNNNNNNNNFF                                FFFF
+NNNNNNNNNNFF                            FFFFFFNN
+NNNNNNNNNNFF  b                         FFFFFFNN
+FFFFFFFFFFFFFFFFFFq                 FFFFFFNNNNNN
+FFFFFFFFFFFFF                      FFFFFFNNNNNNN
+FF   d  a  e                    FFFFFFNNNNNNNNNN
+FF                          Q   FFFFFFNNNNNNNNNN
+FF                          FFFFFFNNNNNNNNNNNNNN
+FF                          FFFFFFNNNNNNNNNNNNNN
+FF 0 1                  FFFFFFNNNNNNNNNNNNNNNNNN
+FF      t              FFFFFFNNNNNNNNNNNNNNNNNNN
+FFFFFFFFFF         CFFFFFFNNNNNNNNNNNNNNNNNNNNNN
+FFFFFFFFFFT SFFFFF CFFFFFFNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNFF     FFF   C  FFNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNFF     FFF   C  FFNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNFF     FFF   C  FFNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNFF     FFF   C  FFNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNFF              FFNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNFF n        s   FFNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNFFFFFFFFFFFFFFFFFFNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNFFFFFFFFFFFFFFFFFFNNNNNNNNNNNNNNNNNNNNNNNN

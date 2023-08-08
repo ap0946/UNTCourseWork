@@ -1,0 +1,10 @@
+2.0 0 2
+Eeek! The dinner party is
+tonight!
+2.5 1 3
+Oh no! We don't have any
+supplies! We have to get
+get things for our guests!
+1.5 0 2
+It's almost time, we have
+to hurry!

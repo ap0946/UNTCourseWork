@@ -1,0 +1,10 @@
+2.0 0 3
+We have to get going!
+We can't keep our guests
+waiting!
+1.0 0 1
+Let's go!
+2.0 1 1
+Your mom likes beans!
+2.0 0 1
+No your mom likes Beans!
