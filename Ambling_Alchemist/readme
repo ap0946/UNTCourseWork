@@ -1,0 +1,21 @@
+Developed using Unreal Engine 4.
+See References Document for credits.
+Game controls:
+
+‘E’ to pick up items, interact with storage chest, shop well, alchemy cauldron, and to sleep in bed
+‘Z’ to equip tools
+‘I’ to open inventory
+‘L’ to place an item
+‘P’ to eat an item
+‘O‘ to sell an item
+‘Y’ to use net
+
+Enter to speak to an NPC
+Caps lock to use axe
+Left ctrl to use fishing rod
+Left shift to use pickaxe
+
+Access the shop by interacting with the well to the right of the player house.
+Access the alchemy menu by interacting with the cauldron to the right of the player house.
+Only the player’s house, located near the spawn point, can be entered.
+Move things to storage by clicking chest icon in inventory
